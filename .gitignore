@@ -1,6 +1,7 @@
 # local
 .vscode/
 .history/
+reports/html
 
 # cache
 .ipynb_checkpoints/
