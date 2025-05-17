@@ -1,0 +1,10 @@
+# local
+.vscode/
+.history/
+
+# cache
+.ipynb_checkpoints/
+.DS_Store
+
+# logs
+**/*.log
